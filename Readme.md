@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
 * Студент: [Виктор Круглов](https://up.htmlacademy.ru/htmlcss/29/user/1586123).
-* Наставник: `Неизвестно`.
+* Наставник:[Александр Лесухин].(https://htmlacademy.ru/profile/caneklis) .
 
 ---
 
